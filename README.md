@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > This project was developed during my early coding journey (Nov 2020 - Jan 2021), and therefore, the syntax, variable naming conventions, etc., reflect that learning stage.
 
-## Table of Contents
+# Table of Contents
 1. [Project Introduction](#project-introduction)
 2. [Technical Overview](#technical-overview)
     - [Maximizing Gameplay](#maximizing-gameplay)
@@ -14,18 +14,18 @@
         - [Captchas & Server Crash Handling](#captchas-&-server-crash-handling)
         - [Supervision and Monitoring](#supervision-and-monitoring)
 
-## Project Introduction
+# Project Introduction
 
 **Bombcrypto** is a game following the **"Play-to-Earn"** model, featuring a group of bomb heroes in search of the BCOIN. The game operates on the **Binance blockchain**, with the **BCOIN token** serving as the primary in-game currency on the **BNB Chain**. The project aimed to **maximize BCOIN generation** by **automating all game tasks**, implementing optimized rules, and more.
 
 > [!NOTE]
 > On November 29, 2021, BCOIN reached its peak value of $8.2 before plummeting significantly.
 
-## Technical Overview
+# Technical Overview
 
-### Maximizing Gameplay
+## Maximizing Gameplay
 
-#### The optimized loop
+### The optimized loop
 
 Basically, in Bombcrypto you have heroes who work alone in this zone made up of chests and obstacles. 
 
@@ -52,7 +52,7 @@ Therefore are two parameters to optimise:
 
 Whenever you're not on the map screen, the heroes aren't working, so every interaction in the script has to be as quick as possible, otherwise you lose money.
 
-#### Browser Management
+### Browser Management
 
 With **investment in multiple accounts** being **the most cost-effective**, effective management of multiple browser instances was essential to maximise playability.
 
@@ -69,9 +69,9 @@ The game loop was then performed one by one for each browser.
 > If I had to do it again today, I'd use multithreading and better management of the different game instances.
 
 
-### Automating Gameplay
+## Automating Gameplay
 
-#### Computer Vision & Automated Input Generation
+### Computer Vision & Automated Input Generation
 
 The project utilized computer vision for automatic generation of keyboard and mouse inputs, browser management, Metamask connections, server crash handling, and most importantly, the creation and management of optimal game loops for each browser.
 
@@ -81,11 +81,11 @@ Automated input generation played a crucial role in executing game actions effic
 
 Integration with Metamask facilitated seamless transactions within the game environment, allowing for the smooth transfer of BCOIN tokens and other in-game assets.
 
-#### Captchas & Server Crash Handling
+### Captchas & Server Crash Handling
 
 Robust mechanisms were implemented to handle server crashes gracefully, ensuring minimal disruption to gameplay and maximizing uptime of the automation system.
 
-#### Supervision and Monitoring
+### Supervision and Monitoring
 
 Supervision and monitoring mechanisms were developed to maintain oversight of the automation system. This included sending periodic screenshots, logging detailed action records locally, and providing important information logs on Discord for real-time monitoring.
 
