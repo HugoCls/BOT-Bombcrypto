@@ -35,15 +35,15 @@ Basically, in Bombcrypto you have heroes who work alone in this zone made up of 
 
 Your heroes move around the map by dropping bombs that explode the chests, and when there are no more chests a pop-up appears and you have to click on it to get them working again in a new map.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://i.ytimg.com/vi/Slw3Pm9Ayek/maxresdefault.jpg" alt="Houses" style="width:40%;">
-</div>
+</p>
 
 When your heroes are tired, they need to sleep, and you can either let them rest peacefully (you can see it with zzz on top of their heads), or place them in a house to get a quick rest. (houses also cost BCOIN, at that time their price was between 1,2k-$250k)
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://www.altcoinbuzz.io/wp-content/uploads/2022/06/1-29-1024x565.png" alt="Houses" style="width:40%;">
-</div>
+</p>
 
 Therefore are two parameters to optimise:
 - Always have 15 heroes working while the others rest in houses
@@ -64,9 +64,9 @@ This included:
 
 The game loop was then performed one by one for each browser.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://raw.githubusercontent.com/hugocls/BOT-Bombcrypto/main/data/images/readme/browser_management.png" alt="Description de l'image" style="width:100%;">
-</div>
+</p>
 
 > [!NOTE]
 > If I had to do it again today, I'd use multithreading/multiprocessing and better management of the different game instances.
@@ -83,9 +83,9 @@ For image recognition, I used ```matchTemplate``` function from ```OpenCV```, wh
 
 Technically, it calculates the correlation between a template and regions of an image to find occurrences of the template.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://raw.githubusercontent.com/hugocls/BOT-Bombcrypto/main/data/images/readme/matchtemplate_.png" alt="Description de l'image" style="width:100%;">
-</div>
+</p>
 
 All other computer vision functions have been created by hand using colour, image processing and other means using ```matchTemplate``` or equivalents.
 
