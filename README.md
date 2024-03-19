@@ -29,9 +29,9 @@
 
 Basically, in Bombcrypto you have heroes who work alone in this zone made up of chests and obstacles. 
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://i.ytimg.com/vi/bw097WMyiUo/maxresdefault.jpg" alt="Bombcrypto map" style="width:50%;">
-</div>
+</p>
 
 Your heroes move around the map by dropping bombs that explode the chests, and when there are no more chests a pop-up appears and you have to click on it to get them working again in a new map.
 
