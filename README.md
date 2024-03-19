@@ -45,7 +45,6 @@ When your heroes are tired, they need to sleep, and you can either let them rest
     <img src="https://www.altcoinbuzz.io/wp-content/uploads/2022/06/1-29-1024x565.png" alt="Houses" style="width:40%;">
 </div>
 
-
 Therefore are two parameters to optimise:
 - Always have 15 heroes working while the others rest in houses
 - Launch new Maps as soon as they've finished
