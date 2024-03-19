@@ -101,10 +101,10 @@ I refer you to my repository dedicated solely to this at this address: [Captcha-
 
 <div style="display: flex;">
     <div style="flex: 1; padding-right: 10px;">
-        <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Puzzle/images/README_IMAGES/captcha_not_done.png" alt="Captcha 1" style="width: 100%;">
+        <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Puzzle/images/README_IMAGES/captcha_not_done.png" alt="Captcha 1" style="width: 50%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
-        <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Numbers-Revealed/images/README_IMAGES/captcha_img.png" alt="Captcha 2" style="width: 100%;">
+        <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Numbers-Revealed/images/README_IMAGES/captcha_img.png" alt="Captcha 2" style="width: 50%;">
     </div>
 </div>
 
