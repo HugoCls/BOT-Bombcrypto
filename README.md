@@ -84,7 +84,7 @@ For image recognition, I used ```matchTemplate``` function from ```OpenCV```, wh
 Technically, it calculates the correlation between a template and regions of an image to find occurrences of the template.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/hugocls/BOT-Bombcrypto/main/data/images/readme/matchtemplate.png?" alt="Description de l'image" style="width:100%;">
+    <img src="https://raw.githubusercontent.com/hugocls/BOT-Bombcrypto/main/data/images/readme/matchtemplate_.png" alt="Description de l'image" style="width:100%;">
 </div>
 
 All other computer vision functions have been created by hand using colour, image processing and other means using ```matchTemplate``` or equivalents.
