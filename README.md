@@ -83,6 +83,10 @@ For image recognition, I used ```matchTemplate``` function from ```OpenCV```, wh
 
 Technically, it calculates the correlation between a template and regions of an image to find occurrences of the template.
 
+<div style="text-align: center;">
+    <img src="https://pyimagesearch.com/wp-content/uploads/2021/02/multi_template_matching_header.png" alt="Description de l'image" style="width:100%;">
+</div>
+
 All other computer vision functions have been created by hand using colour, image processing and other means using ```matchTemplate``` or equivalents.
 
 You can see my whole library of templates at the following path: ```tree/main/data/images```.
