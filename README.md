@@ -1,5 +1,8 @@
 # Bombcrypto Automation Project
 
+> [!IMPORTANT]
+> This project was developed during my early coding days (Nov 2020 - Jan 2021), and as such, the syntax used, variable naming conventions, etc., should be considered in that context.
+
 ## Table of Contents
 1. [Project Introduction](#project-introduction)
 2. [Technical Overview](#technical-overview)
