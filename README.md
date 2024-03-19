@@ -1,8 +1,5 @@
 # Bombcrypto BOT Project
 
-> [!IMPORTANT]
-> This project was developed during my early coding journey (Nov 2020 - Jan 2021), and therefore, the syntax, variable naming conventions, etc., reflect that learning stage.
-
 # Table of Contents
 1. [Project Introduction](#project-introduction)
 2. [Technical Overview](#technical-overview)
@@ -22,6 +19,9 @@
 > On November 29, 2021, BCOIN reached its peak value of $8.2 before plummeting significantly.
 
 # Technical Overview
+
+> [!IMPORTANT]
+> This project was developed during my early coding journey (Nov 2020 - Jan 2021), and therefore, the syntax, variable naming conventions, etc., reflect that learning stage.
 
 ## Maximizing Gameplay
 
