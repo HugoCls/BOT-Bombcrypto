@@ -69,20 +69,23 @@ The game loop was then performed one by one for each browser.
 </div>
 
 > [!NOTE]
-> If I had to do it again today, I'd use multithreading and better management of the different game instances.
-
+> If I had to do it again today, I'd use multithreading/multiprocessing and better management of the different game instances.
 
 ## Automating Gameplay
 
 ### Computer Vision & Automated Input Generation
 
-The project utilized computer vision for automatic generation of keyboard and mouse inputs, browser management, Metamask connections, server crash handling, and most importantly, the creation and management of optimal game loops for each browser.
+The project utilized computer vision for automatic generation of keyboard and mouse inputs.
 
-Automated input generation played a crucial role in executing game actions efficiently. This included simulating keyboard and mouse inputs to interact with the game interface seamlessly.
+For keyboard input I used ```autopy```, ```pywinauto```, ```pyautogui```...
 
+For image recognition, I used ```matchTemplate``` function from ```OpenCV```, which recognises an image template in a larger image.
 
+Technically, it calculates the correlation between a template and regions of an image to find occurrences of the template.
 
-Integration with Metamask facilitated seamless transactions within the game environment, allowing for the smooth transfer of BCOIN tokens and other in-game assets.
+All other computer vision functions have been created by hand using colour, image processing and other means using ```matchTemplate``` or equivalents.
+
+You can see my whole library of templates at the following path: ```tree/main/data/images```.
 
 ### Captchas & Server Crash Handling
 
