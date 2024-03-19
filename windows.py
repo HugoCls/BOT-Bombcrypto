@@ -1,7 +1,7 @@
 import win32gui
 import pygetwindow
 from time import sleep
-import clavier_souris as cs
+import modules.clavier_souris as cs
 import pyautogui
 
 def get_window_titles():

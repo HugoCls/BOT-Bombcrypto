@@ -1,10 +1,10 @@
-import matchtemplate as templ
+import modules.matchtemplate as templ
 import classes as H
 from PIL import ImageGrab
-import clavier_souris as cs
+import modules.clavier_souris as cs
 import random as rd
-import detects as dt
-import colors
+import modules.detects as dt
+import modules.colors as colors
 import cv2
 import os
 import time

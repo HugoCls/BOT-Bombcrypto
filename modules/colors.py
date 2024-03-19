@@ -1,4 +1,4 @@
-import clavier_souris as cs
+import modules.clavier_souris as cs
 
 def yellow(x,y):
     R,G,B=cs.pixelRGB(x,y)

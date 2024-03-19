@@ -1,5 +1,5 @@
-import matchtemplate as templ
-import clavier_souris as cs
+import modules.matchtemplate as templ
+import modules.clavier_souris as cs
 import random as rd
 
 def find(img_modele):

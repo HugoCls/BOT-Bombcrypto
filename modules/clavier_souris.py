@@ -9,7 +9,7 @@ from time import sleep
 import random as rd
 import pyautogui
 import time
-import matchtemplate as templ
+import modules.matchtemplate as templ
 keyboard = KeyboardController()
 mouse = MouseController()
 pyautogui.FAILSAFE = False

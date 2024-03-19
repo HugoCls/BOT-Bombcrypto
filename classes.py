@@ -1,6 +1,6 @@
 import random as rd
-import clavier_souris as cs
-import colors
+import modules.clavier_souris as cs
+import modules.colors as colors
 import time
 import pyautogui
 from time import sleep

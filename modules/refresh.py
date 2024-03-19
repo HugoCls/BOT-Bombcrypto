@@ -1,7 +1,7 @@
-import clavier_souris as cs
-import detects as dt
+import modules.clavier_souris as cs
+import modules.detects as dt
 import time
-import errors
+import modules.errors as errors
 from time import sleep
 
 

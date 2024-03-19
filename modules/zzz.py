@@ -1,5 +1,5 @@
-import ocr
-import matchtemplate as templ
+import modules.ocr as ocr
+import modules.matchtemplate as templ
 import cv2
 import os
 
@@ -32,6 +32,7 @@ def count(br):
             if x<=xz<=x+w and y<=yz<=y+h:
                 L.append(Lz[i])
         #print(Lzzz,Lzz,Lz,'\n',L,'\n')
+        
     L=templ.points_in_couple_list(L)
     print('ZZZ | Screen ',br.i,' | ',len(L))
     return(len(L))

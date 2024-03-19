@@ -1,16 +1,17 @@
 import time
-import detects as dt
-import refresh as fresh
+import modules.detects as dt
+import modules.refresh as fresh
+import modules.clavier_souris as cs
 import heroes as h
-import historic
-import errors
-import clavier_souris as cs
+import modules.historic as historic
+import modules.errors as errors
+import modules.zzz as zzz
+
 import windows as wd
 import classes as C
 from time import sleep
-import zzz
+
 import time
-import historic
 
 def infinite_loop():
     t_historic=time.time()-300
