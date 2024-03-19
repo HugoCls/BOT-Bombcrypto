@@ -64,6 +64,10 @@ This included:
 
 The game loop was then performed one by one for each browser.
 
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/hugocls/BOT-Bombcrypto/main/data/images/readme/browser_management.png" alt="Description de l'image" style="width:50%;">
+</div>
+
 > [!NOTE]
 > If I had to do it again today, I'd use multithreading and better management of the different game instances.
 
