@@ -93,7 +93,11 @@ You can see my whole library of templates at the following path: ```tree/main/da
 
 ### Captchas & Server Crash Handling
 
-Robust mechanisms were implemented to handle server crashes gracefully, ensuring minimal disruption to gameplay and maximizing uptime of the automation system.
+There were often server problems, which forced us to create systems to detect server crashes, without which our bot could remain blocked for hours, refreshing the page.
+
+In addition, anti-bot captcha systems were put in place, which we easily bypassed using hand-created functions. 
+
+I refer you to my repository dedicated solely to this at this address: [Captcha-Solving](https://github.com/HugoCls/Captcha-Solving)
 
 ### Supervision and Monitoring
 
