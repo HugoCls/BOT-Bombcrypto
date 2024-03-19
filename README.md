@@ -99,6 +99,13 @@ In addition, anti-bot captcha systems were put in place, which we easily bypasse
 
 I refer you to my repository dedicated solely to this at this address: [Captcha-Solving](https://github.com/HugoCls/Captcha-Solving)
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Puzzle/images/README_IMAGES/captcha_not_done.png" alt="Captcha 1"></td>
+    <td><img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Numbers-Revealed/images/README_IMAGES/captcha_img.png" alt="Captcha 2"></td>
+  </tr>
+</table>
+
 ### Supervision and Monitoring
 
 Supervision and monitoring mechanisms were developed to maintain oversight of the automation system. This included sending periodic screenshots, logging detailed action records locally, and providing important information logs on Discord for real-time monitoring.
