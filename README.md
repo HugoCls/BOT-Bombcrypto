@@ -115,18 +115,18 @@ This included sending periodic screenshots, logging detailed action records loca
 
 **Running logs**
 <p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (4).png" alt="Logs" style="width: 50%;">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (2).png" alt="Logs" style="width: 50%;">
+	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (4).png" alt="Logs" style="width: 30%;">
+	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (2).png" alt="Logs" style="width: 30%;">
 </p>
 
 **Working efficiency**
 <p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (3).png" alt="Logs" style="width: 50%;">
+	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (3).png" alt="Logs" style="width: 30%;">
 </p>
 
 **Visual feedback**
 <p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (1).png" alt="Logs" style="width: 100%;">
+	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (1).png" alt="Logs" style="width: 50%;">
 </p>
 
 ---
