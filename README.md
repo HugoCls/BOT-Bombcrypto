@@ -115,7 +115,7 @@ This included sending periodic screenshots, logging detailed action records loca
 
 **Running logs**
 <p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (4).png" alt="Logs" style="width: 25%;">
+	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (5).png" alt="Logs" style="width: 25%;">
 	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (2).png" alt="Logs" style="width: 25%;">
 </p>
 
