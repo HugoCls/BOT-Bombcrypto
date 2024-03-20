@@ -113,16 +113,25 @@ I refer you to my repository dedicated solely to this at this address: [Captcha-
 Supervision and monitoring mechanisms were developed to maintain oversight of the automation system. 
 This included sending periodic screenshots, logging detailed action records locally, and providing important information logs on Discord for real-time monitoring.
 
-**Running logs**
-<p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (5).png" alt="Logs" style="width: 25%;">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (2).png" alt="Logs" style="width: 25%;">
-</p>
-
-**Working efficiency**
-<p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (3).png" alt="Logs" style="width: 25%;">
-</p>
+<table>
+  <tr>
+    <th>Running logs</th>
+    <th>Working efficiency</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (5).png" alt="Logs" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (2).png" alt="Logs" style="width: 100%;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (3).png" alt="Logs" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 **Visual feedback**
 <p align="left">
