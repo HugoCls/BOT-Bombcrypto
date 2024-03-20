@@ -117,6 +117,7 @@ This included sending periodic screenshots, logging detailed action records loca
   <tr>
     <th>Running logs</th>
     <th>Working efficiency</th>
+    <th>Visual feedback</th>
   </tr>
   <tr>
     <td>
@@ -125,18 +126,12 @@ This included sending periodic screenshots, logging detailed action records loca
     <td>
       <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (2).png" alt="Logs" style="width: 100%;">
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (3).png" alt="Logs" style="width: 100%;">
+    <td>
+      <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (1).png" alt="Logs" style="width: 100%;">
     </td>
   </tr>
+  <tr>
 </table>
-
-**Visual feedback**
-<p align="left">
-	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/logs (1).png" alt="Logs" style="width: 40%;">
-</p>
 
 ---
 
