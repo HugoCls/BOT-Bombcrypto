@@ -104,7 +104,9 @@ I refer you to my repository dedicated solely to this at this address: [Captcha-
     <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Numbers-Revealed/images/README_IMAGES/captcha_img.png" alt="Captcha 2" style="width: 39%;">
 </p>
 
-![Captcha](https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Numbers-Revealed/images/README_IMAGES/captcha.gif)
+![Captcha](https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/captcha.gif?raw=true)
+aaa
+<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/captcha.gif?raw=true" alt="Captcha 2" style="width: 39%;">
 										
 ### Supervision and Monitoring
 
