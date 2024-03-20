@@ -98,15 +98,14 @@ There were often server problems, which forced us to create systems to detect se
 In addition, anti-bot captcha systems were put in place, which we easily bypassed using hand-created functions. 
 
 <p float="left">
-    <img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/captcha.gif?raw=true" alt="Captcha" style="width: 100%;">
-    //<img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Puzzle/images/README_IMAGES/captcha_not_done.png" alt="Captcha 1" style="width: 40%;">
+    <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Puzzle/images/README_IMAGES/captcha_not_done.png" alt="Captcha 1" style="width: 40%;">
     <img src="https://raw.githubusercontent.com/HugoCls/Captcha-Solving/main/Bombcrypto-Numbers-Revealed/images/README_IMAGES/captcha_img.png" alt="Captcha 2" style="width: 39%;">
 </p>
 
 I refer you to my repository dedicated solely to this at this address: [Captcha-Solving](https://github.com/HugoCls/Captcha-Solving)
 
-<p align="center">
-	
+<p align="left">
+	<img src="https://github.com/HugoCls/BOT-Bombcrypto/blob/main/data/images/readme/captcha.gif?raw=true" alt="Captcha" style="width: 100%;">
 </p>	
 
 ### Supervision and Monitoring
